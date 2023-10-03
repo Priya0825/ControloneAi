@@ -8,3 +8,7 @@
 ## 2.geometrical shapes - line, rectangles, ellipses, circles using python and openCV
 ### OUTPUT:
 ![My Image](Task_2/ans.png)
+
+## 3. Parcel Detail 
+### OUTPUT:
+![My Image](Task_3/ans.png)
